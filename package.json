@@ -1,17 +1,21 @@
 {
-  "name": "wcms-restful",
-  "version": "1.0.0",
-  "description": "",
-  "main": "dist/index.js",
+  "name": "wcms-restful-js",
+  "version": "0.0.1",
+  "description": "a js lib to perform restful api calls for Cascade CMS webservices",
+  "keywords": [],
+  "homepage": "https://github.com/zhuqiwen/iu-wcms-restful-js#readme",
+  "bugs": {
+    "url": "https://github.com/zhuqiwen/iu-wcms-restful-js/issues"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhuqiwen/iu-wcms-restful-js"
+    "url": "git+https://github.com/zhuqiwen/iu-wcms-restful-js.git"
   },
+  "license": "GPL-3.0",
+  "author": "Qiwen Zhu <qiwzhu@iu.edu>",
+  "type": "commonjs",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Qiwen Zhu <qiwzhu@iu.edu>",
-  "license": "ISC",
-  "type": "commonjs"
+  }
 }
