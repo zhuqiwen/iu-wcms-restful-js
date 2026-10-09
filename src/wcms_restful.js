@@ -2,7 +2,7 @@
  * Cascade CMS REST API Vanilla JS Library
  * Based on Cascade CMS REST API Specifications
  */
-export default class WCMS {
+export class WCMS {
     /**
      * @param {string} baseUrl - The base URL of your Cascade instance (e.g., 'http://localhost:8080')
      * @param {Object} auth - Authentication configuration
