@@ -1,6 +1,6 @@
 {
   "name": "wcms-restful-js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "a js lib to perform restful api calls for Cascade CMS webservices",
   "keywords": [],
   "homepage": "https://github.com/zhuqiwen/iu-wcms-restful-js#readme",
