@@ -8,6 +8,7 @@ export default defineConfig({
             name: 'wcms-restful-js',
             minify: 'esbuild',
             esbuild:{
+                mangleProps: false,
                 keepNames: true
             },
             fileName:(format) => `wcms-restful.${format}.js`,
